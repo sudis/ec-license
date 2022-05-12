@@ -118,3 +118,7 @@ Oldukça doğru gözüken bir yardım komutu ile karşılaştık. Bu yardım kom
 
 ### MongoDB veya MySQL gibi Veritabanlarını Kullanması
 > Eski moda olan ve hiçbir şekilde iyi tecrübeler yaşatmayan `quick.db` ve türevlerini kabul etmiyoruz. İyi bir bot için kesinlikle Cloud veya Local anlamda öncü veritabanları kullanılmalı.
+
+### Gerçek Para İle Satılan Özelliklerin Güçlü Olması
+> Botunuz üzerinde bir Premium veya VIP üyelik sisteminin olduğunu farzedecek olursak bu özelliklerin yersiz olmaması gerektiğini söylemeliyiz. Botlarda bu tür sistemler tasarlayan ekibi güçlendirse ve destek olsa bile dilencilik adı altında hiçbir satış yapmamalısınız.
+
