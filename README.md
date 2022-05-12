@@ -122,3 +122,5 @@ Oldukça doğru gözüken bir yardım komutu ile karşılaştık. Bu yardım kom
 ### Gerçek Para İle Satılan Özelliklerin Güçlü Olması
 > Botunuz üzerinde bir Premium veya VIP üyelik sisteminin olduğunu farzedecek olursak bu özelliklerin yersiz olmaması gerektiğini söylemeliyiz. Botlarda bu tür sistemler tasarlayan ekibi güçlendirse ve destek olsa bile dilencilik adı altında hiçbir satış yapmamalısınız.
 
+### Yasaklı Komutları Bulundurmamalı
+> Bütün komutlarınız Discord ve bizim belirlediğimiz kurallara (*Discord'da Terms of Service*) uymalı. Bu tespit edilirse botunuz onay alamaz.
