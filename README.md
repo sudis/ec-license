@@ -61,3 +61,11 @@ Bir Bot üstteki listeye uyuyorsa Etiklik Kontrol Lisansını alabilir ve bu Git
 
 Üstteki fotoğrafta ise yine `footer` kullanımı görüyoruz. Bu `footer` kullanımı çok saçma çünkü Bot zaten cevabını verdiği kişi belli. Noktalama işaretlerinde hata yapmış ve bir sürü emoji kullanılmış.
 
+![Fotoğraf 8](https://kayra.pls-fuck.me/9pwY4VH.png)
+
+Üstteki fotoğrafta gömülü mesaj yanlış kullanılmış. Bir gömülü mesajın boşluklu şekilde alta genişlemesi hoş durmaz. Bunun yerine alabilecek en büyük işlevsellik, sadelik denkleminde az büyümesidir. Yani bir gömülü mesaj olabildiğince işlevsel olmalı, sade olmalı, büyük olmamalı ve karışık olmamalı. Ek olarak buradaki `author` kullanımı gereksiz kaçmış olabilir. O bölüme komutu kullanan kişi yerine başka bilgilendirmeler yazabilirdi.
+
+![Fotoğraf 10](https://kayra.pls-fuck.me/3cVG1QC.png)
+
+Oldukça doğru gözüken bir yardım komutu ile karşılaştık. Bu yardım komutunda iki kısım hatalı. Birincisi zaten botun hangi bot olduğunu biliyoruz ekstra `author`'a ihtiyacımız yok. En sonda belirtilen komut linkleri ise en üstte yinelenmiş. Onun dışında emoji kullanımları doğru ve güzel dille yazılmış.
+
