@@ -48,13 +48,16 @@ Bir Bot üstteki listeye uyuyorsa Etiklik Kontrol Lisansını alabilir ve bu Git
 ### Doğru Gömülü Mesajlar
 
 ![Fotoğraf 1](https://cdn.discordapp.com/attachments/814960684705513482/973969869718568990/Ekran_Resmi_2022-05-11_17.28.10.png)
+
 Üstteki Gömülü Mesaj bir kanalın tek mesajı olacağı için ufak mesaj barındırsa dahi Gömülü Mesaj olarak atıldı. Gereksiz görüldüğü için `footer` ve `title` kullanılmadı. Gri renkli buton kullanıldı. (Sadelik açısından.)
 
 ### Yanlış Gömülü Mesajlar
 
 ![Fotoğraf 2](https://cdn.discordapp.com/attachments/814960684705513482/973970497761050664/Ekran_Resmi_2022-05-11_17.30.43.png)
+
 Üstteki gömülü mesajda birçok etiklik ve sadelik problemi mevcut. İlk olarak `footer` ve `author` aynı amaca hizmet etmiş. Ya `footer`'dan ya da `author`'dan vazgeçilmeli. Aynı zamanda `timestamp` eklemek saçma çünkü Bot yazısının hemen yanında zaten zamanı görebilirsin. (İpucu: `XX | bugün saat 15:20` gibi kullanımlar artık eskidi.) Bir Gömülü Mesajın içerisinde fazla etiket bulunmamalı. Bundan dolayı  `@Yiğit` kullanımı yerine `Yiğit#0001` veya sadece `Yiğit` kişisi kullanılabilir.
 
 ![Fotoğraf 3](https://cdn.discordapp.com/attachments/902302627767918602/973891836861112320/IMG_1354.png)
+
 Üstteki fotoğrafta ise yine `footer` kullanımı görüyoruz. Bu `footer` kullanımı çok saçma çünkü Bot zaten cevabını verdiği kişi belli. Noktalama işaretlerinde hata yapmış ve bir sürü emoji kullanılmış.
 
