@@ -124,3 +124,29 @@ Oldukça doğru gözüken bir yardım komutu ile karşılaştık. Bu yardım kom
 
 ### Yasaklı Komutları Bulundurmamalı
 > Bütün komutlarınız Discord ve bizim belirlediğimiz kurallara (*Discord'da Terms of Service*) uymalı. Bu tespit edilirse botunuz onay alamaz.
+
+## Etiklik Kontrol Lisansı Alındıktan Sonra
+> Herhangi bir EC-Lisansı aldıktan sonra o bot için altı haneli (`TR0001` veya `PL0002` cinsinden) kod oluşturulur. Bu kod sadece bota özgüdür ve botun kimliğini oluşturur. Bot kimliğini kontrol etmek için [bu adresten](https://google.com) kontrol kısmına ulaşabilirsiniz.
+
+Her lisanslı bot ayın 15'inde kontrole tabii tutulur. Bu kontrolün aşamaları şunlardır;
+
+- Bot lisans aldıktan sonra herhangi bir kurala riayetsizlik etmiş mi?
+- Bot içerisinde lisans aleyhinde herhangi bir durum ilan etmiş mi?
+- Bot sitesinde, Top.GG veya türevi sitelerinde EC-Lisans bildirisini silmiş mi?
+- Bot ECL üzerinden herhangi bir şikayet almış mı?
+
+## Neden Bu Lisansa İhtiyaç Duyalım?
+> Üstte de bahsettiğim gibi hiçbir ihtiyacınız yok veya buna ihtiyaç duymuyorsunuz. EC-Lisans ailesine katılarak şu özellikleri kazanma şansı sunuyoruz;
+
+- Herhangi bir muhalefette EC-Lisans ekibi sizin yerinize botunuzu koruyabilir. (*Diyelim ki bir hırsızlık yaşandı veya bot kullanıcıları bot geliştiricileri ile muhalefete düştüler. Resmi açıklamalar ve insan ilişkileri koruması açısından yardımcı oluruz. Bunu şunun gibi yapabiliriz; "X Botu EC-Lisans kapsamında bütün kurallara riayet ediyor. Bundan dolayı herhangi bir negativite söz konusu olamaz."*)
+- EC-Lisans sahipli botlar gelişerek aileyi büyütüyor. Bu bir çok arkadaşlık ve çevre imkanı sağlayabilir.
+- EC-Lisans Github sayfasında botlarınızın isimleri ve reklamları yer alıyor.
+- EC-Lisans özgün ve eşi benzeri olmayan bir proje.
+
+> Sizden istediğimiz talepler nedir?
+
+- EC-Lisans ailesinde bulunduğunuz süre boyunca belirlediğimiz kurallara riayet etmeniz. (*Etiklik kuralları.*)
+- Herhangi bir muhalefette ana çözücü olarak bir yetkilimizi görevlendirmenizi istiyoruz. (*Diyelim ki bir problem çıktı ve SOS ekibi kurmak zorunda kaldınız. EC-Lisans'tan bir yetkilimiz size yardımcı olmak ve işlerinizi yoluna sokmak için yanınızda olacak.*)
+- EC-Lisans birçok tarafı birbiriyle bağlayan bir köprü görevi görüyor. Bundan dolayı yeni arkadaşlık ilişkilerine hazır olmalısınız.
+- EC-Lisans ailesinden veya çalıştığımız partnerlerimizden birisi herhangi bir sorun yaşarsa onlara yardım etmeye **mükellef değilsiniz** fakat yardımcı olursanız bu iki taraf için de iyi olur.
+- Her ayın 15'inde yaptığımız uygunluk testlerinde zorluk çıkmasını istemeyiz.
