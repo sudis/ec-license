@@ -15,7 +15,7 @@
  - **Eğik çizgi** komutları (Esnetilebilir),
  - Yeni gelen **özellikleri** kullanması (butonlar ve menüler gibi),
  -  Gereksiz **gömülü mesajlar** veya **mesajlar** içermemesi,
- - **Çalmak** veya **kopyalama** yapılmaması,
+ - **Çalma** veya **kopyalama** yapılmaması,
  - **MongoDB** veya **MySQL** gibi güçlü veritabanlarından birisini kullanması,
  - Gerçek para ile satılan özelliklerin **güçlü** olması,
  - **Yasaklı komutları** bulundurmaması.
