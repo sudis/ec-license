@@ -31,6 +31,24 @@ Bir Bot üstteki listeye uyuyorsa Etiklik Kontrol Lisansını alabilir ve bu Git
 ## Eğik Çizgi Komutları
 > Yeni olan çoğu bot artık eğik çizgi komutlarına geçiş yapıyor. Discord.JS V13'te de artık desteklenen Eğik Çizgi komutlarına geçme vakti geldi. Bütün bot komutlarını Eğik çizgi halinde yapmaktan bahsetmiyoruz birkaç normal komut kullanabilirsiniz fakat çoğunluk Eğik Çizgi komutlarını oluşturmalı. (*Yine de son zamanlara kadar Eğik Çizgi komutlarını kullanma zorunluluğu yoktur.*)
 
+> Eğik Çizgilerle ilgili konuşmak gerekirse bir eğik çizgi bütün komutu olabildiğince sade şekilde anlatmalı. Her kısımda yardımcı olmalı ve ona göre önermeler yapmalı. Hiçbir zaman anlamsız Eğik Çizgi açıklamalarınız olmamalı. Örnek komutlar aşağıda yer alacak.
+
+![Fotoğraf 12](https://kayra.pls-fuck.me/3XLQS7F.png)
+
+Üstte belirtilen hesap oluşturma komutunda bilgiler yer alıyor.
+
+![Fotoğraf 13](https://kayra.pls-fuck.me/xQbW3iF.png)
+
+Burada ise e-postayı ne amaçla istediğimiz gibi bilgileri yazabiliyoruz.
+
+![Fotoğraf 14](https://kayra.pls-fuck.me/7eubL8W.png)
+
+Gerekiyorsa ek olarak açıklama belirtmelisiniz. Hangi süre formatına uymalı? Nasıl kullanılmalı? Gibi belirtimler şarttır.
+
+![Fotoğraf 15](https://kayra.pls-fuck.me/8BvpjnW.png)
+
+Sade eğik çizgi komutları yaratmaktan kaçınmayın.
+
 ## Yeni Gelen Özellikleri Kullanması.
 > Artık yeni sayılmasa da Discord'a yeni gelen özellikleri botunuzda kullanmaya başlamalısınız. Buna örnek olarak verilebilecek Butonlar, menüler, Form gönderme vb. örnek verilebilir
 
