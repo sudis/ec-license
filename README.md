@@ -51,6 +51,32 @@ Bir Bot üstteki listeye uyuyorsa Etiklik Kontrol Lisansını alabilir ve bu Git
 
 Üstteki Gömülü Mesaj bir kanalın tek mesajı olacağı için ufak mesaj barındırsa dahi Gömülü Mesaj olarak atıldı. Gereksiz görüldüğü için `footer` ve `title` kullanılmadı. Gri renkli buton kullanıldı. (Sadelik açısından.)
 
+![Fotoğraf 4](https://kayra.pls-fuck.me/65DcvSN.png)
+
+Üstteki fotoğraf bir Log görüntüsü. Log görüntülerinde `author` ve `footer` gereksiz kullanımlarına fazla dikkat edilmeyebilir. Sadelikten daha çok burada aranan şey ne kadar işlevli olduğu oluyor. İki tarih belirtilmiş bu tarihlerden birincisi cezanın uygulandığı tarih iken diğer tarih cezanın bitişini net olarak gösteren diğer tarih. İşlevsellikten ve sadelikten ödün vermemek için log numarası `#8` olarak en başta belirtilmiş. Ekstra olarak kopyalamalar ve diğer içerikler için orta kısımda daha geniş bilgi veriliyor.
+
+![Fotoğraf 5](https://kayra.pls-fuck.me/8dmjRhz.png)
+
+Üstteki doğru kullanım ise diğer bir Log görüntüsü ise mesaj raporlama ile alakalı. Bu raporlama örneği direk mesajın raporlandığını belirtiyor.
+
+![Fotoğraf 6](https://kayra.pls-fuck.me/3Q5VeTf.png)
+
+Üstteki fotoğrafta ise basit susturma mesajını görebilirsiniz. Bu mesaj kanala atılıyor ve log ile alakası yok. Oldukça sade ve normal mesaj kullanılmış.
+
+![Fotoğraf 7](https://kayra.pls-fuck.me/6rSDTz8.png)
+
+Burada ise bir sicil komutunu görüntüleyebilirsiniz. Sicil komutlarını normal mesajlarla yapmanızı **önermiyoruz**. Bunun sebebi birçok bilgi yer alması gereken komutlarda Embed büyüse bile (*istisnai durumlar genelde gömülü mesajlar büyük olmamalı.*) sicil gibi komutlarda zorunlu olarak alta doğru genişlemeli. 
+
+**İPUCU:** Sicil komutunu iki komuta bölebilirsiniz. Normal sicil ve genişletilmiş olarak. Normal sicil en son alınan beş cezayı lanse ederken genişletilmiş sicil gömülü mesaj sayfaları ile yapılabilir veya kod blokları kullanılabilir.
+
+![Fotoğraf 9](https://kayra.pls-fuck.me/3A21VZb.png)
+
+Oldukça hoş duran bir anlaşma kabul mesajıyla karşınızdayız. Gömülü mesaj kullanılmadan başka bir yere aktarım suretiyle anlaşmayı kabul etmenize olanak sağlıyor. Belki bu anlaşma kabulünü görünmez mesaj olarak lanse edebilirsiniz.
+
+![Fotoğraf 11](https://kayra.pls-fuck.me/SMpCg2Z.png)
+
+Çok basit ve gömülü mesaja ihtiyaç duyulmadan oluşturulmuş bir hesap bilgi komutu.
+
 ### Yanlış Gömülü Mesajlar
 
 ![Fotoğraf 2](https://cdn.discordapp.com/attachments/814960684705513482/973970497761050664/Ekran_Resmi_2022-05-11_17.30.43.png)
