@@ -113,3 +113,7 @@ Oldukça hoş duran bir anlaşma kabul mesajıyla karşınızdayız. Gömülü m
 
 Oldukça doğru gözüken bir yardım komutu ile karşılaştık. Bu yardım komutunda iki kısım hatalı. Birincisi zaten botun hangi bot olduğunu biliyoruz ekstra `author`'a ihtiyacımız yok. En sonda belirtilen komut linkleri ise en üstte yinelenmiş. Onun dışında emoji kullanımları doğru ve güzel dille yazılmış.
 
+### Çalma veya Kopylama Yapılmaması
+> Herkes farklı komutlardan esinlenebilir veya yeni bir komut yaratmak istediğiniz zaman farklı botlardan özellikleri ekleyebilirsiniz. Bu çok normal ve gerekli. Fakat kırmızı çizgiyi aşmamanız gerekiyor. 35%'den fazla çalıntı veya kopyalama kodlar bulunan hiçbir botu veya içeriği kabul etmiyoruz. 
+
+
