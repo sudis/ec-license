@@ -116,4 +116,5 @@ Oldukça doğru gözüken bir yardım komutu ile karşılaştık. Bu yardım kom
 ### Çalma veya Kopylama Yapılmaması
 > Herkes farklı komutlardan esinlenebilir veya yeni bir komut yaratmak istediğiniz zaman farklı botlardan özellikleri ekleyebilirsiniz. Bu çok normal ve gerekli. Fakat kırmızı çizgiyi aşmamanız gerekiyor. 35%'den fazla çalıntı veya kopyalama kodlar bulunan hiçbir botu veya içeriği kabul etmiyoruz. 
 
-
+### MongoDB veya MySQL gibi Veritabanlarını Kullanması
+> Eski moda olan ve hiçbir şekilde iyi tecrübeler yaşatmayan `quick.db` ve türevlerini kabul etmiyoruz. İyi bir bot için kesinlikle Cloud veya Local anlamda öncü veritabanları kullanılmalı.
